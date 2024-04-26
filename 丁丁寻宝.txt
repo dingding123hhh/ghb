@@ -1,4 +1,7 @@
-马比艹你妈
+
+
+
+
 
 
 local TresureBreakSimulator = Instance.new("ScreenGui")
